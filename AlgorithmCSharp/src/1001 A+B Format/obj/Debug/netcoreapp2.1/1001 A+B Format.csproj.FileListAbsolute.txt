@@ -1,0 +1,11 @@
+F:\Algorithm\AlgorithmCSharp\src\1001 A+B Format\bin\Debug\netcoreapp2.1\1001 A+B Format.deps.json
+F:\Algorithm\AlgorithmCSharp\src\1001 A+B Format\bin\Debug\netcoreapp2.1\1001 A+B Format.runtimeconfig.json
+F:\Algorithm\AlgorithmCSharp\src\1001 A+B Format\bin\Debug\netcoreapp2.1\1001 A+B Format.runtimeconfig.dev.json
+F:\Algorithm\AlgorithmCSharp\src\1001 A+B Format\bin\Debug\netcoreapp2.1\1001 A+B Format.dll
+F:\Algorithm\AlgorithmCSharp\src\1001 A+B Format\bin\Debug\netcoreapp2.1\1001 A+B Format.pdb
+F:\Algorithm\AlgorithmCSharp\src\1001 A+B Format\obj\Debug\netcoreapp2.1\1001 A+B Format.csprojAssemblyReference.cache
+F:\Algorithm\AlgorithmCSharp\src\1001 A+B Format\obj\Debug\netcoreapp2.1\1001 A+B Format.csproj.CoreCompileInputs.cache
+F:\Algorithm\AlgorithmCSharp\src\1001 A+B Format\obj\Debug\netcoreapp2.1\1001 A+B Format.AssemblyInfoInputs.cache
+F:\Algorithm\AlgorithmCSharp\src\1001 A+B Format\obj\Debug\netcoreapp2.1\1001 A+B Format.AssemblyInfo.cs
+F:\Algorithm\AlgorithmCSharp\src\1001 A+B Format\obj\Debug\netcoreapp2.1\1001 A+B Format.dll
+F:\Algorithm\AlgorithmCSharp\src\1001 A+B Format\obj\Debug\netcoreapp2.1\1001 A+B Format.pdb
